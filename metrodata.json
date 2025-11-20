@@ -1,0 +1,1152 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-20T20:59:01Z",
+    "timestamp_areas_base": "2025-11-20T16:07:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 125372978,
+  "lat": 44.4355629,
+  "lon": 26.1024682,
+  "tags": {
+    "name": "Universitate",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3116198",
+    "wikipedia": "ro:Universitate (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 144042138,
+  "lat": 44.3924540,
+  "lon": 26.1228383,
+  "tags": {
+    "addr:city": "București",
+    "addr:street": "Șoseaua Berceni",
+    "internet_access": "yes",
+    "name": "Piața Sudului",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3036299",
+    "wikipedia": "ro:Piața Sudului (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 255387575,
+  "lat": 44.4806131,
+  "lon": 26.1166350,
+  "tags": {
+    "name": "Pipera",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3182244",
+    "wikipedia": "ro:Pipera (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 293317918,
+  "lat": 44.4791556,
+  "lon": 26.1002318,
+  "tags": {
+    "name": "Aurel Vlaicu",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2871866",
+    "wikipedia": "ro:Aurel Vlaicu (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 301687829,
+  "lat": 44.4305811,
+  "lon": 25.9909684,
+  "tags": {
+    "name": "Preciziei",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3036310"
+  }
+},
+{
+  "type": "node",
+  "id": 304917380,
+  "lat": 44.4472354,
+  "lon": 26.0765661,
+  "tags": {
+    "name": "Gara de Nord 1",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 305109365,
+  "lat": 44.4330576,
+  "lon": 26.0895859,
+  "tags": {
+    "name": "Izvor",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2682824"
+  }
+},
+{
+  "type": "node",
+  "id": 305109987,
+  "lat": 44.4275409,
+  "lon": 26.1019218,
+  "tags": {
+    "name": "Piața Unirii 1",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 305116719,
+  "lat": 44.4169594,
+  "lon": 26.1133470,
+  "tags": {
+    "level": "-1",
+    "name": "Timpuri Noi",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2120902"
+  }
+},
+{
+  "type": "node",
+  "id": 305123680,
+  "lat": 44.4193677,
+  "lon": 26.1404644,
+  "tags": {
+    "name": "Dristor 1",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 305123683,
+  "lat": 44.4112894,
+  "lon": 26.1258859,
+  "tags": {
+    "name": "Mihai Bravu",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q1929086"
+  }
+},
+{
+  "type": "node",
+  "id": 305136011,
+  "lat": 44.4454258,
+  "lon": 26.0465519,
+  "tags": {
+    "name": "Petrache Poenaru",
+    "network": "Metrorex",
+    "old_name": "Semănătoarea",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q963995",
+    "wikipedia": "ro:Petrache Poenaru (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 432783453,
+  "lat": 44.4351219,
+  "lon": 26.1691265,
+  "tags": {
+    "level": "-2",
+    "location": "underground",
+    "name": "Costin Georgian",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2388832"
+  }
+},
+{
+  "type": "node",
+  "id": 432783473,
+  "lat": 44.4344205,
+  "lon": 26.1853096,
+  "tags": {
+    "internet_access": "wlan",
+    "layer": "-3",
+    "name": "Republica",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "survey",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3116206"
+  }
+},
+{
+  "type": "node",
+  "id": 432783497,
+  "lat": 44.4405245,
+  "lon": 26.1926032,
+  "tags": {
+    "internet_access": "wlan",
+    "layer": "-3",
+    "name": "Pantelimon",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q3116217"
+  }
+},
+{
+  "type": "node",
+  "id": 435247459,
+  "lat": 44.4135723,
+  "lon": 26.1606064,
+  "tags": {
+    "name": "Nicolae Grigorescu 1",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 435247463,
+  "lat": 44.4105518,
+  "lon": 26.1737975,
+  "tags": {
+    "name": "1 Decembrie 1918",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2813516",
+    "wikipedia": "ro:1 Decembrie 1918 (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 518726893,
+  "lat": 44.4416951,
+  "lon": 26.1323219,
+  "tags": {
+    "name": "Piața Iancului",
+    "network": "Metrorex",
+    "network:wikidata": "Q622884",
+    "operator": "Metrorex",
+    "operator:wikidata": "Q1091725",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q549259",
+    "wikipedia": "ro:Piața Iancului (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582553764,
+  "lat": 44.4526258,
+  "lon": 26.0864320,
+  "tags": {
+    "name": "Piața Victoriei 2",
+    "name:ja": "ヴィクトリー広場2",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2602883",
+    "wikipedia": "ro:Piața Victoriei (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582554910,
+  "lat": 44.4519552,
+  "lon": 26.0870771,
+  "tags": {
+    "name": "Piața Victoriei 1",
+    "name:ja": "ヴィクトリー広場1",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2602883",
+    "wikipedia": "ro:Piața Victoriei (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582555685,
+  "lat": 44.4453569,
+  "lon": 26.0976999,
+  "tags": {
+    "name": "Piața Romană",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3116212",
+    "wikipedia": "ro:Piața Romană (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582556598,
+  "lat": 44.4153732,
+  "lon": 26.1045107,
+  "tags": {
+    "name": "Tineretului",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q3036302"
+  }
+},
+{
+  "type": "node",
+  "id": 582556889,
+  "lat": 44.4037845,
+  "lon": 26.0966525,
+  "tags": {
+    "name": "Eroii Revoluției",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3036294",
+    "wikipedia": "ro:Eroii Revoluției (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582558030,
+  "lat": 44.4660312,
+  "lon": 26.0866420,
+  "tags": {
+    "level": "-2",
+    "name": "Aviatorilor",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2874311",
+    "wikipedia": "ro:Aviatorilor (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582558538,
+  "lat": 44.3986492,
+  "lon": 26.1091174,
+  "tags": {
+    "name": "Constantin Brâncoveanu",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2994959",
+    "wikipedia": "ro:Constantin Brâncoveanu (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582561202,
+  "lat": 44.3793895,
+  "lon": 26.1350678,
+  "tags": {
+    "name": "Apărătorii Patriei",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2859115"
+  }
+},
+{
+  "type": "node",
+  "id": 582562934,
+  "lat": 44.3688223,
+  "lon": 26.1435811,
+  "tags": {
+    "name": "Dimitrie Leonida",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3028168",
+    "wikipedia": "ro:Dimitrie Leonida (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582563611,
+  "lat": 44.3612654,
+  "lon": 26.1492822,
+  "tags": {
+    "name": "Berceni",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2896931",
+    "wikipedia": "ro:Berceni (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582975264,
+  "lat": 44.4427354,
+  "lon": 26.0603602,
+  "tags": {
+    "name": "Grozăvești",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1868109",
+    "wikipedia": "ro:Grozăvești (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582984165,
+  "lat": 44.4343812,
+  "lon": 26.0325846,
+  "tags": {
+    "name": "Lujerului",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q1921423"
+  }
+},
+{
+  "type": "node",
+  "id": 582984656,
+  "lat": 44.4342111,
+  "lon": 26.0212800,
+  "tags": {
+    "name": "Gorjului",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q2287151"
+  }
+},
+{
+  "type": "node",
+  "id": 582991878,
+  "lat": 44.4318261,
+  "lon": 26.1386757,
+  "tags": {
+    "name": "Piața Muncii",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q1961102",
+    "wikipedia": "ro:Piața Muncii (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 582992954,
+  "lat": 44.4529326,
+  "lon": 26.1046938,
+  "tags": {
+    "name": "Ștefan cel Mare",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2355396",
+    "wikipedia": "ro:Ștefan cel Mare (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 610921653,
+  "lat": 44.4190743,
+  "lon": 26.1423119,
+  "tags": {
+    "is_in:city": "București",
+    "name": "Statie Metrou M1 Dristor",
+    "network": "Metrorex",
+    "network:wikidata": "Q622884",
+    "note": "RO-Bucuresti",
+    "operator": "Metrorex",
+    "operator:wikidata": "Q1091725",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 610921654,
+  "lat": 44.4204778,
+  "lon": 26.1394150,
+  "tags": {
+    "name": "Dristor 2",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 610921655,
+  "lat": 44.4198163,
+  "lon": 26.1392097,
+  "tags": {
+    "is_in:city": "București",
+    "name": "Metrou M1 Dristor 2",
+    "network": "Metrorex",
+    "network:wikidata": "Q622884",
+    "note": "RO-Bucuresti",
+    "operator": "Metrorex",
+    "operator:wikidata": "Q1091725",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 610929150,
+  "lat": 44.4519125,
+  "lon": 26.0471454,
+  "tags": {
+    "name": "Crângași",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2199349",
+    "wikipedia": "ro:Crângași (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 1211022966,
+  "lat": 44.4815504,
+  "lon": 26.0415378,
+  "tags": {
+    "name": "Jiului",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q12731373"
+  }
+},
+{
+  "type": "node",
+  "id": 1996550393,
+  "lat": 44.4053860,
+  "lon": 26.2089197,
+  "tags": {
+    "name": "Anghel Saligny",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2849579",
+    "wikipedia": "ro:Anghel Saligny (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 2144709872,
+  "lat": 44.4257917,
+  "lon": 26.1627220,
+  "tags": {
+    "level": "-2",
+    "name": "Titan",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q649962"
+  }
+},
+{
+  "type": "node",
+  "id": 2817781098,
+  "lat": 44.4350477,
+  "lon": 26.0756528,
+  "tags": {
+    "name": "Eroilor",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2380294",
+    "wikipedia": "ro:Eroilor (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 2817826951,
+  "lat": 44.4133084,
+  "lon": 26.1609020,
+  "tags": {
+    "layer": "-3",
+    "name": "Nicolae Grigorescu 2",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2818112595,
+  "lat": 44.4508289,
+  "lon": 26.0684779,
+  "tags": {
+    "name": "Basarab 2 - M4",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2818112596,
+  "lat": 44.4507456,
+  "lon": 26.0683720,
+  "tags": {
+    "name": "Basarab 1 - M1",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2818113803,
+  "lat": 44.4473488,
+  "lon": 26.0738048,
+  "tags": {
+    "name": "Gara de Nord 2",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikipedia": "ro:Gara de Nord (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 4786918775,
+  "lat": 44.4943376,
+  "lon": 26.0319543,
+  "tags": {
+    "level": "-2",
+    "name": "Laminorului",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3216768",
+    "wikipedia": "ro:Laminorului (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 4786918776,
+  "lat": 44.5016554,
+  "lon": 26.0262412,
+  "tags": {
+    "layer": "-2",
+    "name": "Străulești",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5190721296,
+  "lat": 44.4352756,
+  "lon": 26.0553995,
+  "tags": {
+    "name": "Politehnica",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5257635108,
+  "lat": 44.4617617,
+  "lon": 26.0574956,
+  "tags": {
+    "name": "Grivița",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q1842024"
+  }
+},
+{
+  "type": "node",
+  "id": 5257635111,
+  "lat": 44.4705337,
+  "lon": 26.0506266,
+  "tags": {
+    "level": "-2",
+    "name": "1 Mai",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q176844",
+    "wikipedia": "ro:1 Mai (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 5257635113,
+  "lat": 44.4072916,
+  "lon": 26.1944050,
+  "tags": {
+    "name": "Nicolae Teclu",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q1998224",
+    "wikipedia": "ro:Nicolae Teclu (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 5916880473,
+  "lat": 44.4494120,
+  "lon": 26.1246099,
+  "tags": {
+    "name": "Obor",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2156002",
+    "wikipedia": "ro:Obor (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 5916881059,
+  "lat": 44.4277587,
+  "lon": 26.1040826,
+  "tags": {
+    "name": "Piața Unirii 2",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7023063629,
+  "lat": 44.4339141,
+  "lon": 26.0041269,
+  "tags": {
+    "addr:city": "București",
+    "addr:street": "Bulevardul Iuliu Maniu",
+    "alt_name": "Stația de Metrou Păcii",
+    "name": "Păcii",
+    "name:en": "Păcii Metro Station",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2794825"
+  }
+},
+{
+  "type": "node",
+  "id": 7925084860,
+  "lat": 44.4258741,
+  "lon": 26.0558903,
+  "tags": {
+    "name": "Orizont",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q12737271",
+    "wikipedia": "en:Orizont metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 7925084868,
+  "lat": 44.4246395,
+  "lon": 26.0483640,
+  "tags": {
+    "name": "Favorit",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q12728151",
+    "wikipedia": "en:Favorit metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 7925090295,
+  "lat": 44.4348399,
+  "lon": 26.0738437,
+  "tags": {
+    "name": "Eroilor 2",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7925090296,
+  "lat": 44.4289299,
+  "lon": 26.0628760,
+  "tags": {
+    "level": "-1",
+    "name": "Academia Militară",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q12719860",
+    "wikipedia": "en:Academia Militară metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 7925090299,
+  "lat": 44.4230640,
+  "lon": 26.0413031,
+  "tags": {
+    "name": "Tudor Vladimirescu",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q12727074",
+    "wikipedia": "en:Tudor Vladimirescu metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 7925090300,
+  "lat": 44.4222249,
+  "lon": 26.0330875,
+  "tags": {
+    "name": "Parc Drumul Taberei",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q18545189",
+    "wikipedia": "en:Parc Drumul Taberei metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 7925090301,
+  "lat": 44.4229883,
+  "lon": 26.0246158,
+  "tags": {
+    "location": "underground",
+    "name": "Romancierilor",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q12739518",
+    "wikipedia": "en:Romancierilor metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 7925090331,
+  "lat": 44.4152401,
+  "lon": 26.0242040,
+  "tags": {
+    "location": "underground",
+    "name": "Râul Doamnei",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q12739761",
+    "wikipedia": "en:Râul Doamnei metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 7925090332,
+  "lat": 44.4191176,
+  "lon": 26.0202867,
+  "tags": {
+    "location": "underground",
+    "name": "Constantin Brâncuși",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q12722985",
+    "wikipedia": "en:Constantin Brâncuși metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 7925090355,
+  "lat": 44.4211119,
+  "lon": 26.0144421,
+  "tags": {
+    "name": "Valea Ialomiței",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q12742966",
+    "wikipedia": "en:Valea Ialomiței metro station"
+  }
+},
+{
+  "type": "node",
+  "id": 11350522260,
+  "lat": 44.3480408,
+  "lon": 26.1592557,
+  "tags": {
+    "name": "Tudor Arghezi",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q85976317",
+    "wikipedia": "ro:Tudor Arghezi (stație de metrou)"
+  }
+},
+{
+  "type": "node",
+  "id": 13148013717,
+  "lat": 44.4866494,
+  "lon": 26.0375677,
+  "tags": {
+    "name": "Parc Bazilescu",
+    "network": "Metrorex",
+    "operator": "Metrorex",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7136365"
+  }
+}
+
+  ]
+}

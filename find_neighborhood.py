@@ -18,7 +18,7 @@ def reverse_geocode(lat, lon):
         "addressdetails": 1,
     }
     headers = {
-        "User-Agent": "proiect-facultate-imobiliare/1.0 (contact@example.com)"
+        "User-Agent": "proiect-facultate-imobiliare/1.0 (concat10@example.com)"
     }
 
     try:

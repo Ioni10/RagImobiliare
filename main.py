@@ -17,8 +17,8 @@ from selenium.common.exceptions import TimeoutException
 
 BASE_URL = "https://www.olx.ro/imobiliare/bucuresti/?currency=EUR&page={page}"
 
-START_PAGE = 1   # prima pagină de parcurs
-END_PAGE = 2     # ultima pagină (modifică după nevoie)
+START_PAGE = 1  # prima pagină de parcurs
+END_PAGE = 600    # ultima pagină (modifică după nevoie)
 
 
 HEADERS = {
