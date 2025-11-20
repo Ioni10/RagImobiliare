@@ -15,6 +15,7 @@ def reverse_geocode(lat, lon):
         "lat": lat,
         "lon": lon,
         "format": "json",
+        "zoom": 18,
         "addressdetails": 1,
     }
     headers = {
@@ -46,7 +47,7 @@ def reverse_geocode(lat, lon):
 
 
 def main():
-    input_file = "olx_bucuresti_imobiliare.csv"
+    input_file = "olx_bucuresti_imobiliare_metro.csv"
     output_file = "olx_bucuresti_imobiliare_enhanced.csv"
 
     df = pd.read_csv(input_file)
